@@ -1,0 +1,12 @@
+{
+  "title": "Muad.didit | Portfolio",
+  "description": "Showcasing the multidisciplinary work of designer Muad Didit, this portfolio website offers an interactive and visually distinct experience that highlights creativity and craftsmanship.",
+  "language": "en",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
